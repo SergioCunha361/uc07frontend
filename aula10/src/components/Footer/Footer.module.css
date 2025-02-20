@@ -1,0 +1,9 @@
+.footer{
+    background-color: chocolate;
+    color: antiquewhite;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+}
