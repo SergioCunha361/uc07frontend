@@ -1,6 +1,7 @@
 import React from "react";
 import Header  from "../../components/Header";
 import Footer from "../../components/Footer";
+import Styles from "./Home.module.css";
 
 function Home() {
     return (
@@ -10,7 +11,7 @@ function Home() {
 
             <main>
 
-             <p>Aqui é meu home</p>
+                <p>Aqui é meu home</p>
 
             </main>
             <Footer /> 
